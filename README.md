@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live & Repository Links
-- **Live Deployment:** [https://ph-assignment-07-bazardor.vercel.app](https://ph-assignment-07-bazardor.vercel.app) *(or your Vercel deployment URL)*
+- **Live Deployment:** [https://ph-assignment-07-eta.vercel.app/](https://ph-assignment-07-eta.vercel.app/)
 - **GitHub Repository:** [https://github.com/Shanto472/PH-Assignment-07](https://github.com/Shanto472/PH-Assignment-07)
 
 ---
