@@ -22,6 +22,7 @@
 
 # databases
 *.db
+!bazardor.db
 *.sqlite
 *.sqlite3
 
